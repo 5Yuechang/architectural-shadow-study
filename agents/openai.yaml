@@ -1,0 +1,5 @@
+interface:
+  display_name: "只看影子·建筑研究图"
+  short_description: "把建筑图转成极简高反差黑白阴影研究图，保留构图与体量"
+  brand_color: "#2F2F2F"
+  default_prompt: "Use $architectural-shadow-study to turn my architectural image into a high-contrast shadow study while preserving its geometry."
